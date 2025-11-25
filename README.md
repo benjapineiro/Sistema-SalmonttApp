@@ -40,17 +40,15 @@ De esta manera, el sistema evita errores comunes, amplía sus capacidades y perm
 
 ### Instrucciones para ejecutar el programa
 
-Clona o descarga el proyecto en tu computador:
+1- Clona o descarga el proyecto en tu computador:
 ```
 git clone https://github.com/benjapineiro/Sistema-SalmonttApp/tree/84c5a3326e929c47a41e43a74b6090dc3b3c5aee/SalmonttApp
 ```
 
-Abre el proyecto en tu IDE.
+2- Abre el proyecto en tu IDE.
 
-Ejecuta la clase principal Main, ubicada en el paquete ui.
+3- Ejecuta la clase principal Main, ubicada en el paquete ui.
 
-Revisa la consola para visualizar:
-
-La lista completa de centros cargados.
-
-El filtrado de centros con producción mayor o igual a 1000.
+4- Revisa la consola para visualizar:
+ -La lista completa de centros cargados.
+ -El filtrado de centros con producción mayor o igual a 1000.
