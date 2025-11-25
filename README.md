@@ -39,7 +39,7 @@ De esta manera, el sistema evita errores comunes, amplía sus capacidades y perm
 
 Clona o descarga el proyecto en tu computador:
 ```[
-git clone github.com/benjapineiro/Sistema-SalmonttApp/tree/84c5a3326e929c47a41e43a74b6090dc3b3c5aee/SalmonttApp
+git clone https://github.com/benjapineiro/Sistema-SalmonttApp/tree/84c5a3326e929c47a41e43a74b6090dc3b3c5aee/SalmonttApp
 ```
 
 Abre el proyecto en tu IDE.
