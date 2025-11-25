@@ -1,5 +1,5 @@
 ## Actividad Sumativa 2: Sistema SalmontApp
-#### Autor del proyecto
+### Autor del proyecto
 
 Nombre: Benjamin Jesus Piñeiro Ramos
 
@@ -9,7 +9,7 @@ Profesor: Pablo Andrés Vilches Valenzuela
 
 Carrera: Analista Programador Computacional
 
-#### Descripción del proyecto
+### Descripción del proyecto
 
 Este proyecto corresponde a la continuación del sistema desarrollado para la compañía Salmontt, como parte de la Actividad Sumativa 2.
 Su objetivo es fortalecer la estructura existente, haciéndola más funcional y eficiente.
@@ -18,7 +18,9 @@ Para lograrlo, se integran nuevas herramientas como validaciones básicas, colec
 
 De esta manera, el sistema evita errores comunes, amplía sus capacidades y permite una gestión más completa y robusta de la información.
 
-#### Estructura de paquetes y clases implementadas
+### Estructura de paquetes y clases implementadas
+
+```
 📁src/
 ├── ui/
 │   └── Main.java                # Método main donde se ejecuta el programa
@@ -34,11 +36,12 @@ De esta manera, el sistema evita errores comunes, amplía sus capacidades y perm
 
 📁resources/
 └── centrosDeCultivo.txt         # Archivo externo con información de centros de cultivo
+```
 
-#### Instrucciones para ejecutar el programa
+### Instrucciones para ejecutar el programa
 
 Clona o descarga el proyecto en tu computador:
-```[
+```
 git clone https://github.com/benjapineiro/Sistema-SalmonttApp/tree/84c5a3326e929c47a41e43a74b6090dc3b3c5aee/SalmonttApp
 ```
 
